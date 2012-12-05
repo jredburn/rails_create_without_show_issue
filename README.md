@@ -1,4 +1,4 @@
-active_model_serializers_url_bug
+rails_create_without_show_issue
 ================================
 
-Reproduction of issue found in active_model_serializers
+Reproduction of issue
